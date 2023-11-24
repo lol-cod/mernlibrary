@@ -9,15 +9,14 @@
     "library-app"
   ],
   "authors": [
-    "Sandul Renuja",
-    "Abdullah Jasmine",
-    "Ravindu Wegiriya",
-    "Kaveesha Muthukuda",
-    "Induwara Pathirana"
+    "Ashish Chaudhary",
+    "Suzal Sen",
+    "Debashis Jena",
+    "Harsha Bonu",
+    "swayam"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "install": "(cd server && npm install) & (cd client && npm install)",
     "server": "cd server && npm run start",
     "client": "cd client && npm run start",
     "start": "npm run server & npm run client"
