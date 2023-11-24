@@ -8,13 +8,6 @@
     "react",
     "mui"
   ],
-  "authors": [
-    "Sandul Renuja",
-    "Abdullah Jasmine",
-    "Ravindu Wegiriya",
-    "Kaveesha Muthukuda",
-    "Induwara Pathirana"
-  ],
   "licence": "MIT",
   "version": "1.6.0",
   "private": false,
