@@ -1,7 +1,7 @@
 {
   "name": "library_management_system",
   "version": "1.1.0",
-  "description": "Simple Library Management System (Fullstack Webapp) for RAD MERN project, built using the MERN stack",
+  "description": "Simple Library Management System (Fullstack Webapp) for MERN project, built using the MERN stack",
   "keywords": [
     "rad",
     "mern",
